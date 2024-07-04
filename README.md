@@ -1,5 +1,4 @@
-
-        Testing Project for website Noriel
+Testing Project for website Noriel
 
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
@@ -11,18 +10,21 @@ Functional specifications:
 The below stories was created in Jira and describes the functional specifications of the "
 Racoviță_Elena_Corina_ST1 “ module, for which the final project is performed upon.
  
+Figure 1 List of stories from the Racoviţă Elena Corina ST1 project in Jira
 
 
 
 Here you can find the release that was created for this project:
  
+Figure 2 The release from the Racoviţă Elena Corina ST1 project in Jira
+
 1.Testing process
 
 The test process was performed based on the standard test process as described below.
 
-1.1Test planning
-
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+1.1 Test planning
+ 
+The Test Plan is designed to describe all details of testing for all the modules from the Noriel website.
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here 
  
 
@@ -209,20 +211,24 @@ Security and compliance
 
 Test status report
  
+Figure 3 Test Metrics 1 for Project Racovita_Elena_Corina_ST1
 
  
+Figure 4  Test Metrics 2 for Project Racovita_Elena_Corina_ST1
+
+
  
-
-
-
+Figure 5  Test Metrics 3 for Project Racovita_Elena_Corina_ST1
 
 1.3 Test Analysis
 The testing process will be executed based on the application requirements
 
 The following test conditions were found:
  
- 
+Figure 6 Test conditions 1 for project Racovita_Elena_Corina_ST1
 
+ 
+Figure 7  Test conditions 2 for project Racovita_Elena_Corina_ST1
 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here 
@@ -235,24 +241,27 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: 
  
+Figure 8 Cycle summary "Test product cart Noriel" for project Racovita_Elena_Corina_ST1
  
+Figure 9  Cycle summary "MANAGE ACCOUNT" for project Racovita_Elena_Corina_ST1
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
  
 The following is a summary of the bugs that have been found 
  
+Figure 10 The list of the bugs for project Racovita_Elena_Corina_ST1
+
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 1.7 Test Completion 
 
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-
-
-
-
 The traceability matrix was generated and can be found here: 
  
+Figure 11 Traceability Matrix for project Racovita_Elena_Corina_ST1
+
 The final report shows that a number 2 tests have failed of a total of 10.
 A number of 2 total bugs were found, from which the priority are high .
 The overall conclusion for the Noriel website test is that it aims to provide an optimal online shopping experience by ensuring that the website is functional, user-friendly and visually appealing. It should perform well in different conditions, provide comprehensive and accurate content, and maintain high security standards.
 In addition, the 10 tests show that it should facilitate a smooth purchase process, provide efficient customer support and be accessible and visible to all users. Also, although the bugs found are of high importance, they do not prevent the launch of the application.
+
