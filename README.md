@@ -1,5 +1,8 @@
 # Testing Project for website Noriel
 
+Project created for the final exam for QA tester course with IT Factory.
+
+https://itfclasses.atlassian.net/jira/software/c/projects/REC/boards/423
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 Application under test: Noriel website
@@ -344,29 +347,34 @@ Implementing test monitoring and control for the Noriel website involves several
 
 
 **Test status report**
+
  ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/fdc9aced-f69d-4832-9695-9c07f143647e)
-   
-   Figure 3 Test Metrics 1 for Project test
+     Figure 3 Test Metrics 1 for Project test
+
+
 
  ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/42507a4c-eab8-4d9b-8531-7210a89547bd)
-   
-   Figure 4  Test Metrics 2 for the test
+      Figure 4  Test Metrics 2 for the test
+
+
 
 ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/fe9a54d0-9916-47cc-975e-54b4e99dc8c8)
-   
-   Figure 5  Test Metrics 3 for Project test
+     Figure 5  Test Metrics 3 for Project test
+
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the application requirements
 
 The following test conditions were found:
+
+
  ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/78641f48-6dd9-415d-8e9b-4cb2fdf5ee29)
-   
-   Figure 6 Test conditions 1 for project test
+     Figure 6 Test conditions 1 for project test
+
+
 
  ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/c0531a12-3fbb-4ee0-8d65-f8485a39a405)
-   
-   Figure 7  Test conditions 2 for project test
+      Figure 7  Test conditions 2 for project test
 
 
 ## 1.4 Test Design
@@ -388,7 +396,7 @@ Test cases are executed on the created test Cycle summary:
 
  ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/642f11aa-4582-44dd-ad60-c0ed22f27b0e)
    
-   Figure 9  Cycle summary "MANAGE ACCOUNT" for project Racovita_Elena_Corina_ST1
+   Figure 9  Cycle summary "MANAGE ACCOUNT" for project 
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
 [Jira BUGS.docx](https://github.com/user-attachments/files/16115267/Jira.BUGS.docx)
@@ -397,7 +405,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 The following is a summary of the bugs that have been found 
  ![image](https://github.com/CorinaRacovita/Testing-Project-for-website-Noriel/assets/166423397/fe22f460-56de-4c55-9e5d-6037fedfefbe)
   
-  Figure 10 The list of the bugs for project Racovita_Elena_Corina_ST1
+  Figure 10 The list of the bugs for project
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
@@ -412,7 +420,7 @@ The traceability matrix was generated and can be found here:
    
 Following the feasibility matrix report, we found that within the project we have 5 stories (REC-2, REC-5, REC-8, REC-11, and REC-14. 
 
-It can be seen in the image below that tests are linked to each created story.
+It can be seen in the image above that tests are linked to each created story.
 
 We have linked to the REC-2 story only one test executed and passed successfully
 
